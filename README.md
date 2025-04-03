@@ -1,2 +1,1 @@
-# pipelines-demo
-Dynatrace Bugbounty POC by @nvk0x
+# Dynatrace Bugbounty POC by @nvk0x
